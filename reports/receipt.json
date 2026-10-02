@@ -1,0 +1,27 @@
+{
+  "merchant": "Craft Craft",
+  "tanggal": "20 Mar, 2019",
+  "item": [
+    {
+      "nama": "BM-01 - Boneka Mainan",
+      "deskripsi": "Hitam, Biru dan Merah",
+      "jumlah": 120,
+      "harga": 150000
+    },
+    {
+      "nama": "LG-01 - Lego",
+      "deskripsi": "Merah, Putih, Hitam, Kuning dan Hijau",
+      "jumlah": 100,
+      "harga": 100000
+    },
+    {
+      "nama": "GK01 - Gantungan Kunci",
+      "deskripsi": "All colors",
+      "jumlah": 70,
+      "harga": 10000
+    }
+  ],
+  "subtotal": 27815000,
+  "pajak": 2781500,
+  "total": 30596500
+}
